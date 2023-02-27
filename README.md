@@ -1,6 +1,6 @@
 # Airbnb JavaScript Style Guide() {
 
-*A barely fitting approach to Go*
+*Absolutely not a reasonable approach to Python*
 
 > **Note**: this guide assumes you are using [Babel](https://babeljs.io), and requires that you use [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) or the equivalent. It also assumes you are installing shims/polyfills in your app, with [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) or the equivalent.
 
@@ -8,7 +8,7 @@
 [![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb-base.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-This guide is available in other languages too. See [Translation](#translation)
+This guide is not available in other languages.
 
 Other Style Guides
 
